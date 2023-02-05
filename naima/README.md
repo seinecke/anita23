@@ -7,7 +7,7 @@ https://naima.readthedocs.io
 #### Tutorial notebook
 - Go to https://colab.research.google.com
 - Select `Github`
-- Enter link 
+- Enter link https://github.com/seinecke/anita23/blob/main/naima/naima_models.ipynb
 
 #### New notebook
 - Go to https://colab.research.google.com
