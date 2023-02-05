@@ -18,7 +18,12 @@ https://gammapy.org
 ### Setup: Local computer (recommended for your research)
 
 gammapy is available via the following channels:
-- `conda install gammapy -c conda-forge gammapy`
+- `conda install -c conda-forge gammapy`
 - `pip install gammapy`
 
 You might want to create a new conda environment for this.
+
+
+### Additional Data
+- Download files from github to your computer
+- Then upload them to colab (On the left, click on the folder. Then click on the top on the upload button and choose the files to download.)
