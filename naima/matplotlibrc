@@ -1,0 +1,32 @@
+font.family: Arial
+
+axes.prop_cycle: cycler('color', ['1F2648','D03A3B','E8CB66','527F4C','7AB9BA','73264D','E39C55','A0B963','52759E',])
+
+#axes.prop_cycle: cycler('color', [
+#'1F2648', # dark blue
+#'D03A3B', # red
+#'E8CB66', # gold
+#'527F4C', # dark green
+#'7AB9BA', # turqoise
+#'73264D'  # dark red
+#'E39C55', # orange
+#'A0B963', # light green
+#'52759E', # medium blue
+#'A1694A', # brown
+#'444564', # dark blue
+#'AF5B58', # red
+#])
+
+#axes.prop_cycle: cycler('color', ['1F2648', 'D03A3B', 'A9A9A9'])
+
+# #1F2648: CTA blue
+# #D03A3B: CTA red
+# #3F3F5F: CTA lightblue
+
+#image.cmap: bone
+
+legend.frameon: False
+
+lines.linewidth: 2
+
+backend: TkAgg
